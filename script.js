@@ -2,7 +2,7 @@
 let secretNumber = Math.trunc(Math.random() * 20) + 1;
 let score = 20;
 let highscore = 0;
-console.log('New Featureg');
+console.log('New Feature');
 
 const displayMessage = function (message) {
   document.querySelector('.message').textContent = message;
